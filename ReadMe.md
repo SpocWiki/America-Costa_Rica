@@ -107,8 +107,8 @@ id: Costa Rica
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Costa_Rica//
-markerFolder: ./Costa_Rica/
+geojsonFolder: .//
+markerFolder: ./
 ```
 
 [name-en::Costa Rica] 
