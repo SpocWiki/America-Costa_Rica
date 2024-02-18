@@ -117,7 +117,7 @@ markerFolder: ./
 [Area-Land::51060] 
 Continent :: [[South-America]]  
 [VehicleCode::CR] 
-Capital :: [[Costa_Rica/Counties/San_José/City/San_José=San_Jose]]  
+Capital :: [[provinces~Costa_Rica/San_José/City/San_José=San_Jose]]  
 
 ![[Costa_Rica/Coat_of_arms_of_Costa_Rica.svg|350]] 
 
