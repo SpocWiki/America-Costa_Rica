@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-84.08] 
-[geo-lat::9.95] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-84.08] 
+[has_place_latitude::9.95] 
 [name::San José=San Jose] 
 State ::  
 Country :: [[../../../../Costa_Rica]] 

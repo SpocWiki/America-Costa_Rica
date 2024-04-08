@@ -127,8 +127,10 @@ Capital :: [[provinces~Costa_Rica/San_José/City/San_José=San_Jose]]
 
 [Alcohol-l::5.6] 
 [Language-Id::492] 
-[geo-lon::-84.08] 
-[geo-lat::9.95] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-84.08] 
+[has_place_latitude::9.95] 
 
 
 
