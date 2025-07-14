@@ -41,15 +41,17 @@ markerFolder: ./Heredia/
 
 ## Confidential Links & Embeds: 
 
-### [Heredia.public](/_public/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_RicaHeredia.public.md) 
+### [Heredia](/_Standards/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Heredia.md) 
 
-### [Heredia.internal](/_internal/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_RicaHeredia.internal.md) 
+### [Heredia.public](/_public/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Heredia.public.md) 
 
-### [Heredia.protect](/_protect/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_RicaHeredia.protect.md) 
+### [Heredia.internal](/_internal/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Heredia.internal.md) 
 
-### [Heredia.private](/_private/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_RicaHeredia.private.md) 
+### [Heredia.protect](/_protect/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Heredia.protect.md) 
 
-### [Heredia.personal](/_personal/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_RicaHeredia.personal.md) 
+### [Heredia.private](/_private/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Heredia.private.md) 
 
-### [Heredia.secret](/_secret/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_RicaHeredia.secret.md)
+### [Heredia.personal](/_personal/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Heredia.personal.md) 
+
+### [Heredia.secret](/_secret/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Heredia.secret.md)
 

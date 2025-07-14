@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [San_José=San_Jose.public](/_public/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_Rica\San_José\CitySan_José=San_Jose.public.md) 
+### [San_José=San_Jose](/_Standards/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/San_José/City/San_José=San_Jose.md) 
 
-### [San_José=San_Jose.internal](/_internal/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_Rica\San_José\CitySan_José=San_Jose.internal.md) 
+### [San_José=San_Jose.public](/_public/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/San_José/City/San_José=San_Jose.public.md) 
 
-### [San_José=San_Jose.protect](/_protect/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_Rica\San_José\CitySan_José=San_Jose.protect.md) 
+### [San_José=San_Jose.internal](/_internal/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/San_José/City/San_José=San_Jose.internal.md) 
 
-### [San_José=San_Jose.private](/_private/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_Rica\San_José\CitySan_José=San_Jose.private.md) 
+### [San_José=San_Jose.protect](/_protect/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/San_José/City/San_José=San_Jose.protect.md) 
 
-### [San_José=San_Jose.personal](/_personal/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_Rica\San_José\CitySan_José=San_Jose.personal.md) 
+### [San_José=San_Jose.private](/_private/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/San_José/City/San_José=San_Jose.private.md) 
 
-### [San_José=San_Jose.secret](/_secret/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_Rica\San_José\CitySan_José=San_Jose.secret.md)
+### [San_José=San_Jose.personal](/_personal/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/San_José/City/San_José=San_Jose.personal.md) 
+
+### [San_José=San_Jose.secret](/_secret/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/San_José/City/San_José=San_Jose.secret.md)
 

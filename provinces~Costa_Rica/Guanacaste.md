@@ -41,15 +41,17 @@ markerFolder: ./Guanacaste/
 
 ## Confidential Links & Embeds: 
 
-### [Guanacaste.public](/_public/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_RicaGuanacaste.public.md) 
+### [Guanacaste](/_Standards/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Guanacaste.md) 
 
-### [Guanacaste.internal](/_internal/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_RicaGuanacaste.internal.md) 
+### [Guanacaste.public](/_public/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Guanacaste.public.md) 
 
-### [Guanacaste.protect](/_protect/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_RicaGuanacaste.protect.md) 
+### [Guanacaste.internal](/_internal/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Guanacaste.internal.md) 
 
-### [Guanacaste.private](/_private/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_RicaGuanacaste.private.md) 
+### [Guanacaste.protect](/_protect/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Guanacaste.protect.md) 
 
-### [Guanacaste.personal](/_personal/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_RicaGuanacaste.personal.md) 
+### [Guanacaste.private](/_private/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Guanacaste.private.md) 
 
-### [Guanacaste.secret](/_secret/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_RicaGuanacaste.secret.md)
+### [Guanacaste.personal](/_personal/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Guanacaste.personal.md) 
+
+### [Guanacaste.secret](/_secret/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Guanacaste.secret.md)
 

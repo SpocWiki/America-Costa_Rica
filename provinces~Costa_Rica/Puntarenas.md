@@ -41,15 +41,17 @@ markerFolder: ./Puntarenas/
 
 ## Confidential Links & Embeds: 
 
-### [Puntarenas.public](/_public/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_RicaPuntarenas.public.md) 
+### [Puntarenas](/_Standards/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Puntarenas.md) 
 
-### [Puntarenas.internal](/_internal/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_RicaPuntarenas.internal.md) 
+### [Puntarenas.public](/_public/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Puntarenas.public.md) 
 
-### [Puntarenas.protect](/_protect/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_RicaPuntarenas.protect.md) 
+### [Puntarenas.internal](/_internal/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Puntarenas.internal.md) 
 
-### [Puntarenas.private](/_private/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_RicaPuntarenas.private.md) 
+### [Puntarenas.protect](/_protect/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Puntarenas.protect.md) 
 
-### [Puntarenas.personal](/_personal/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_RicaPuntarenas.personal.md) 
+### [Puntarenas.private](/_private/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Puntarenas.private.md) 
 
-### [Puntarenas.secret](/_secret/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_RicaPuntarenas.secret.md)
+### [Puntarenas.personal](/_personal/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Puntarenas.personal.md) 
+
+### [Puntarenas.secret](/_secret/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Puntarenas.secret.md)
 

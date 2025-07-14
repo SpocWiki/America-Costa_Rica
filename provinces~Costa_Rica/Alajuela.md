@@ -41,15 +41,17 @@ markerFolder: ./Alajuela/
 
 ## Confidential Links & Embeds: 
 
-### [Alajuela.public](/_public/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_RicaAlajuela.public.md) 
+### [Alajuela](/_Standards/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Alajuela.md) 
 
-### [Alajuela.internal](/_internal/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_RicaAlajuela.internal.md) 
+### [Alajuela.public](/_public/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Alajuela.public.md) 
 
-### [Alajuela.protect](/_protect/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_RicaAlajuela.protect.md) 
+### [Alajuela.internal](/_internal/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Alajuela.internal.md) 
 
-### [Alajuela.private](/_private/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_RicaAlajuela.private.md) 
+### [Alajuela.protect](/_protect/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Alajuela.protect.md) 
 
-### [Alajuela.personal](/_personal/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_RicaAlajuela.personal.md) 
+### [Alajuela.private](/_private/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Alajuela.private.md) 
 
-### [Alajuela.secret](/_secret/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_RicaAlajuela.secret.md)
+### [Alajuela.personal](/_personal/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Alajuela.personal.md) 
+
+### [Alajuela.secret](/_secret/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Alajuela.secret.md)
 

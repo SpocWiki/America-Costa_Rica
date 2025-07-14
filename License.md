@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\America~Central\Costa_RicaLicense.public.md) 
+### [License](/_Standards/Earth/Continent/America~Central/Costa_Rica/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\America~Central\Costa_RicaLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/America~Central/Costa_Rica/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\America~Central\Costa_RicaLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/America~Central/Costa_Rica/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\America~Central\Costa_RicaLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/America~Central/Costa_Rica/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\America~Central\Costa_RicaLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/America~Central/Costa_Rica/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\America~Central\Costa_RicaLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/America~Central/Costa_Rica/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/America~Central/Costa_Rica/License.secret.md)
 

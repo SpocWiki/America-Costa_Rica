@@ -41,15 +41,17 @@ markerFolder: ./Cartago/
 
 ## Confidential Links & Embeds: 
 
-### [Cartago.public](/_public/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_RicaCartago.public.md) 
+### [Cartago](/_Standards/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Cartago.md) 
 
-### [Cartago.internal](/_internal/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_RicaCartago.internal.md) 
+### [Cartago.public](/_public/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Cartago.public.md) 
 
-### [Cartago.protect](/_protect/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_RicaCartago.protect.md) 
+### [Cartago.internal](/_internal/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Cartago.internal.md) 
 
-### [Cartago.private](/_private/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_RicaCartago.private.md) 
+### [Cartago.protect](/_protect/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Cartago.protect.md) 
 
-### [Cartago.personal](/_personal/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_RicaCartago.personal.md) 
+### [Cartago.private](/_private/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Cartago.private.md) 
 
-### [Cartago.secret](/_secret/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_RicaCartago.secret.md)
+### [Cartago.personal](/_personal/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Cartago.personal.md) 
+
+### [Cartago.secret](/_secret/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Cartago.secret.md)
 
