@@ -40,11 +40,16 @@ markerFolder: ./San_José/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Central/Costa_Rica/Counties/San_José|San_José]] 
-- [[../../../../../../_public/geo/Continent/America~Central/Costa_Rica/Counties/San_José.public|San_José.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Central/Costa_Rica/Counties/San_José.internal|San_José.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Central/Costa_Rica/Counties/San_José.protect|San_José.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Central/Costa_Rica/Counties/San_José.private|San_José.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Central/Costa_Rica/Counties/San_José.personal|San_José.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Central/Costa_Rica/Counties/San_José.secret|San_José.secret]] 
+
+### [San_José.public](/_public/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_RicaSan_José.public.md) 
+
+### [San_José.internal](/_internal/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_RicaSan_José.internal.md) 
+
+### [San_José.protect](/_protect/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_RicaSan_José.protect.md) 
+
+### [San_José.private](/_private/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_RicaSan_José.private.md) 
+
+### [San_José.personal](/_personal/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_RicaSan_José.personal.md) 
+
+### [San_José.secret](/_secret/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_RicaSan_José.secret.md)
 

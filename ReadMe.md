@@ -131,11 +131,17 @@ Capital :: [[provinces~Costa_Rica/San_José/City/San_José=San_Jose]]
 [has_place_latitude::9.95] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[Costa_Rica|Costa_Rica]] 
-- [[../../../../_internal/geo/Continent/America~Central/Costa_Rica.internal|Costa_Rica.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Costa_Rica.protect|Costa_Rica.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Costa_Rica.private|Costa_Rica.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Costa_Rica.personal|Costa_Rica.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Costa_Rica.secret|Costa_Rica.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\America~Central\Costa_RicaReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\America~Central\Costa_RicaReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\America~Central\Costa_RicaReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\America~Central\Costa_RicaReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\America~Central\Costa_RicaReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\America~Central\Costa_RicaReadMe.secret.md)
+

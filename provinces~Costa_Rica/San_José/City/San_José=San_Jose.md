@@ -1,4 +1,4 @@
-﻿---
+---
 location: [9.95,-84.08] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/South-America/Costa_Rica/City/San_José=San_Jose|San_José=San_Jose]] 
-- [[../../../../../../_public/geo/Continent/South-America/Costa_Rica/City/San_José=San_Jose.public|San_José=San_Jose.public]] 
-- [[../../../../../../_internal/geo/Continent/South-America/Costa_Rica/City/San_José=San_Jose.internal|San_José=San_Jose.internal]] 
-- [[../../../../../../_protect/geo/Continent/South-America/Costa_Rica/City/San_José=San_Jose.protect|San_José=San_Jose.protect]] 
-- [[../../../../../../_private/geo/Continent/South-America/Costa_Rica/City/San_José=San_Jose.private|San_José=San_Jose.private]] 
-- [[../../../../../../_personal/geo/Continent/South-America/Costa_Rica/City/San_José=San_Jose.personal|San_José=San_Jose.personal]] 
-- [[../../../../../../_secret/geo/Continent/South-America/Costa_Rica/City/San_José=San_Jose.secret|San_José=San_Jose.secret]] 
+
+### [San_José=San_Jose.public](/_public/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_Rica\San_José\CitySan_José=San_Jose.public.md) 
+
+### [San_José=San_Jose.internal](/_internal/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_Rica\San_José\CitySan_José=San_Jose.internal.md) 
+
+### [San_José=San_Jose.protect](/_protect/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_Rica\San_José\CitySan_José=San_Jose.protect.md) 
+
+### [San_José=San_Jose.private](/_private/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_Rica\San_José\CitySan_José=San_Jose.private.md) 
+
+### [San_José=San_Jose.personal](/_personal/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_Rica\San_José\CitySan_José=San_Jose.personal.md) 
+
+### [San_José=San_Jose.secret](/_secret/\Earth\Continent\America~Central\Costa_Rica\provinces~Costa_Rica\San_José\CitySan_José=San_Jose.secret.md)
+
