@@ -1,35 +1,36 @@
 ---
 location:
-- 9.95
-- -84.08
+  - 9.95
+  - -84.08
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26872
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Costa Rica
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Costa Rica
-- كوستاريكا
-- 哥斯达黎加
-- Коста-Рика
-- the Republic of Costa Rica
-- la República de Costa Rica
+  - Costa Rica
+  - كوستاريكا
+  - 哥斯达黎加
+  - Коста-Рика
+  - the Republic of Costa Rica
+  - la República de Costa Rica
 Languages:
-- es-CR
-- en
+  - es-CR
+  - en
 ---
 
 
