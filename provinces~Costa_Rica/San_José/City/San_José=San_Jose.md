@@ -21,7 +21,7 @@ State ::
 Country :: [[../../../../Costa_Rica]] 
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet
