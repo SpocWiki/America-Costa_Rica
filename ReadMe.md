@@ -1,4 +1,12 @@
 ---
+aliases:
+  - Costa Rica
+  - كوستاريكا
+  - 哥斯达黎加
+  - Коста-Рика
+  - the Republic of Costa Rica
+  - la República de Costa Rica
+  - ReadMe
 location:
   - 9.95
   - -84.08
@@ -15,19 +23,12 @@ cssclasses:
   - Country
 publish: true
 title: Costa Rica
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Costa Rica
-  - كوستاريكا
-  - 哥斯达黎加
-  - Коста-Рика
-  - the Republic of Costa Rica
-  - la República de Costa Rica
+publishDate: ''
+expiryDate: ''
 Languages:
   - es-CR
   - en
