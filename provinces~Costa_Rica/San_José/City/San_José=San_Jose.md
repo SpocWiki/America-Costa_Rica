@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: -84.08
 dv_has_place_latitude: 9.95
-dv_name: San José=San Jose
+dv_has_name_: San José=San Jose
 dv_Country: "[[../../../../Costa_Rica]]"
 ---
 #is_a_/Place  
