@@ -40,17 +40,17 @@ markerFolder: ./Limón/
 
 ## Confidential Links & Embeds: 
 
-### [Limón](/_Standards/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Limón.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Limón|Limón]] 
 
-### [Limón.public](/_public/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Limón.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Limón.public|Limón.public]] 
 
-### [Limón.internal](/_internal/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Limón.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Limón.internal|Limón.internal]] 
 
-### [Limón.protect](/_protect/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Limón.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Limón.protect|Limón.protect]] 
 
-### [Limón.private](/_private/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Limón.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Limón.private|Limón.private]] 
 
-### [Limón.personal](/_personal/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Limón.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Limón.personal|Limón.personal]] 
 
-### [Limón.secret](/_secret/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Limón.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Limón.secret|Limón.secret]] 
 

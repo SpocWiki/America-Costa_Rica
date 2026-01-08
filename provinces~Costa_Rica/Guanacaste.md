@@ -40,17 +40,17 @@ markerFolder: ./Guanacaste/
 
 ## Confidential Links & Embeds: 
 
-### [Guanacaste](/_Standards/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Guanacaste.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Guanacaste|Guanacaste]] 
 
-### [Guanacaste.public](/_public/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Guanacaste.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Guanacaste.public|Guanacaste.public]] 
 
-### [Guanacaste.internal](/_internal/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Guanacaste.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Guanacaste.internal|Guanacaste.internal]] 
 
-### [Guanacaste.protect](/_protect/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Guanacaste.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Guanacaste.protect|Guanacaste.protect]] 
 
-### [Guanacaste.private](/_private/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Guanacaste.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Guanacaste.private|Guanacaste.private]] 
 
-### [Guanacaste.personal](/_personal/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Guanacaste.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Guanacaste.personal|Guanacaste.personal]] 
 
-### [Guanacaste.secret](/_secret/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Guanacaste.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Guanacaste.secret|Guanacaste.secret]] 
 

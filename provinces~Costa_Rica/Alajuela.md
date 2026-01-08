@@ -40,17 +40,17 @@ markerFolder: ./Alajuela/
 
 ## Confidential Links & Embeds: 
 
-### [Alajuela](/_Standards/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Alajuela.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Alajuela|Alajuela]] 
 
-### [Alajuela.public](/_public/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Alajuela.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Alajuela.public|Alajuela.public]] 
 
-### [Alajuela.internal](/_internal/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Alajuela.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Alajuela.internal|Alajuela.internal]] 
 
-### [Alajuela.protect](/_protect/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Alajuela.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Alajuela.protect|Alajuela.protect]] 
 
-### [Alajuela.private](/_private/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Alajuela.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Alajuela.private|Alajuela.private]] 
 
-### [Alajuela.personal](/_personal/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Alajuela.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Alajuela.personal|Alajuela.personal]] 
 
-### [Alajuela.secret](/_secret/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Alajuela.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Alajuela.secret|Alajuela.secret]] 
 

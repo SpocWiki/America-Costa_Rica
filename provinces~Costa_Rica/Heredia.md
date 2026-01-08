@@ -40,17 +40,17 @@ markerFolder: ./Heredia/
 
 ## Confidential Links & Embeds: 
 
-### [Heredia](/_Standards/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Heredia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Heredia|Heredia]] 
 
-### [Heredia.public](/_public/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Heredia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Heredia.public|Heredia.public]] 
 
-### [Heredia.internal](/_internal/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Heredia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Heredia.internal|Heredia.internal]] 
 
-### [Heredia.protect](/_protect/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Heredia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Heredia.protect|Heredia.protect]] 
 
-### [Heredia.private](/_private/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Heredia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Heredia.private|Heredia.private]] 
 
-### [Heredia.personal](/_personal/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Heredia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Heredia.personal|Heredia.personal]] 
 
-### [Heredia.secret](/_secret/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Heredia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Heredia.secret|Heredia.secret]] 
 

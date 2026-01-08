@@ -40,17 +40,17 @@ markerFolder: ./Cartago/
 
 ## Confidential Links & Embeds: 
 
-### [Cartago](/_Standards/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Cartago.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Cartago|Cartago]] 
 
-### [Cartago.public](/_public/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Cartago.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Cartago.public|Cartago.public]] 
 
-### [Cartago.internal](/_internal/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Cartago.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Cartago.internal|Cartago.internal]] 
 
-### [Cartago.protect](/_protect/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Cartago.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Cartago.protect|Cartago.protect]] 
 
-### [Cartago.private](/_private/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Cartago.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Cartago.private|Cartago.private]] 
 
-### [Cartago.personal](/_personal/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Cartago.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Cartago.personal|Cartago.personal]] 
 
-### [Cartago.secret](/_secret/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Cartago.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/Cartago.secret|Cartago.secret]] 
 

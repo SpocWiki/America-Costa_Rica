@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 33915
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_has_place_longitude: -84.08
+dv_has_place_latitude: 9.95
+dv_name: San José=San Jose
+dv_Country: "[[../../../../Costa_Rica]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-84.08] 
-[has_place_latitude::9.95] 
-[name::San José=San Jose] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../Costa_Rica]] 
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [San_José=San_Jose](/_Standards/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/San_José/City/San_José=San_Jose.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/San_José/City/San_José=San_Jose|San_José=San_Jose]] 
 
-### [San_José=San_Jose.public](/_public/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/San_José/City/San_José=San_Jose.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/San_José/City/San_José=San_Jose.public|San_José=San_Jose.public]] 
 
-### [San_José=San_Jose.internal](/_internal/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/San_José/City/San_José=San_Jose.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/San_José/City/San_José=San_Jose.internal|San_José=San_Jose.internal]] 
 
-### [San_José=San_Jose.protect](/_protect/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/San_José/City/San_José=San_Jose.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/San_José/City/San_José=San_Jose.protect|San_José=San_Jose.protect]] 
 
-### [San_José=San_Jose.private](/_private/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/San_José/City/San_José=San_Jose.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/San_José/City/San_José=San_Jose.private|San_José=San_Jose.private]] 
 
-### [San_José=San_Jose.personal](/_personal/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/San_José/City/San_José=San_Jose.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/San_José/City/San_José=San_Jose.personal|San_José=San_Jose.personal]] 
 
-### [San_José=San_Jose.secret](/_secret/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/San_José/City/San_José=San_Jose.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Costa_Rica/provinces~Costa_Rica/San_José/City/San_José=San_Jose.secret|San_José=San_Jose.secret]] 
 
