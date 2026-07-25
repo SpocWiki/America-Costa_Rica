@@ -152,7 +152,7 @@ topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_Costa_Rica,1124
 driving_side: '[[/_Standards/WikiData/WD~right,14565199|WD~right,14565199]]'
 described_by_source:
 - '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
 - '[[/_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
 electrical_plug_type:
@@ -452,7 +452,7 @@ dv_ISO2: CR
 dv_ISO3: CRI
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Costa_Rica,800|WD~Costa_Rica,800]]'
+  - '[[../../../../WikiData/WD~Costa_Rica,800|WD~Costa_Rica,800]]'
   - '[[/_Standards/Earth/Continent/America~Central/Costa_Rica|Costa_Rica]]'
   - '[[/_public/Earth/Continent/America~Central/Costa_Rica.public|Costa_Rica.public]]'
   - '[[/_internal/Earth/Continent/America~Central/Costa_Rica.internal|Costa_Rica.internal]]'
@@ -460,7 +460,7 @@ dv_is_:
   - '[[/_private/Earth/Continent/America~Central/Costa_Rica.private|Costa_Rica.private]]'
   - '[[/_personal/Earth/Continent/America~Central/Costa_Rica.personal|Costa_Rica.personal]]'
   - '[[/_secret/Earth/Continent/America~Central/Costa_Rica.secret|Costa_Rica.secret]]'
-  different_from: '[[../America~Caribbean/Greater_Antilles/Puerto_Rico|Puerto_Rico]]'
+  different_from: '[[../../America~Caribbean/Greater_Antilles/Puerto_Rico|Puerto_Rico]]'
 dv_has_:
   name_:
     ab: Коста-Рика
@@ -748,7 +748,7 @@ dv_has_place_longitude: -84.08
 dv_has_place_latitude: 9.95
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../WikiData/WD~Costa_Rica,800|WD~Costa_Rica,800]]'
+- '[[../../../../WikiData/WD~Costa_Rica,800|WD~Costa_Rica,800]]'
 - '[[/_Standards/Earth/Continent/America~Central/Costa_Rica|Costa_Rica]]'
 - '[[/_public/Earth/Continent/America~Central/Costa_Rica.public|Costa_Rica.public]]'
 - '[[/_internal/Earth/Continent/America~Central/Costa_Rica.internal|Costa_Rica.internal]]'
@@ -756,7 +756,7 @@ dv_is_same_as:
 - '[[/_private/Earth/Continent/America~Central/Costa_Rica.private|Costa_Rica.private]]'
 - '[[/_personal/Earth/Continent/America~Central/Costa_Rica.personal|Costa_Rica.personal]]'
 - '[[/_secret/Earth/Continent/America~Central/Costa_Rica.secret|Costa_Rica.secret]]'
-dv_is_different_from: '[[../America~Caribbean/Greater_Antilles/Puerto_Rico|Puerto_Rico]]'
+dv_is_different_from: '[[../../America~Caribbean/Greater_Antilles/Puerto_Rico|Puerto_Rico]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/America-Costa_Rica
 Unicode_character: 🇨🇷
 ---
@@ -831,13 +831,13 @@ ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 ISO2 = `=this.dv_ISO2` 
 ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../WikiData/WD~Costa_Rica,800|WD~Costa_Rica,800]] 
+#is_/same_as :: [[../../../../WikiData/WD~Costa_Rica,800|WD~Costa_Rica,800]] 
 is_different_from = `=this.dv_is_different_from`
 
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Costa_Rica/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -856,7 +856,7 @@ markerFile: [[Costa_Rica]]
 
 ```leaflet
 id: Costa_Rica_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -880,13 +880,13 @@ Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
-Capital :: [[Costa_Rica/provinces~Costa_Rica/San_José/City/San_José=San_Jose|San_José=San_Jose]]  
+Capital :: [[provinces~Costa_Rica/San_José/City/San_José=San_Jose|San_José=San_Jose]]  
 
-![[Costa_Rica/Coat_of_arms_of_Costa_Rica.svg|350]]
+![[Coat_of_arms_of_Costa_Rica.svg|350]]
 
-![[../../../../_public/xLarge.public/National-Anthem/Anthem-Costa-rica.mp3|Anthem-Costa-rica.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Costa-rica.mp3|Anthem-Costa-rica.mp3]]
 
-![[Costa_Rica/Flag_of_Costa_Rica.svg|350]]
+![[Flag_of_Costa_Rica.svg|350]]
 
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
